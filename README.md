@@ -6,7 +6,7 @@
 ## :sassy_man:  About me
 - :computer: I am a `Senior` Software Developer
 - :technologist: `React.js`, `React Native`
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME]([https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing](https://drive.google.com/file/d/1dDIMNNkJusuPsVpg9OpV5wEvPhw0J22E/view?usp=sharing).
+- :thinking: I’m currently open for: `Full time` or `Contract` opportunity, this is [MY RESUME](https://drive.google.com/file/d/1dDIMNNkJusuPsVpg9OpV5wEvPhw0J22E/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
